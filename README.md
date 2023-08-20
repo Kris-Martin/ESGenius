@@ -33,6 +33,7 @@ Rupindeer Kaur, Tilly Symonds, Utkarsh Saxena, Amy Gaetjens and Kristy Martin. S
 [Figma] (https://www.figma.com/file/iwP4CwWQU14SZ6cEM0cQsz/ESGenius-(Community)?type=design&node-id=0%3A1&mode=design&t=JUrbUJe3Y1pTHmHk-1)
 
 ## Walkthrough Video
+[Walkthrough on Youtube](https://www.youtube.com/watch?v=viVAgO1D3LU)
 
 ## Link to Hackerspace Profile
 https://hackerspace.govhack.org/team_management/teams/2186
