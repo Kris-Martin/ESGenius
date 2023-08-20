@@ -30,7 +30,7 @@ Rupindeer Kaur, Tilly Symonds, Utkarsh Saxena, Amy Gaetjens and Kristy Martin. S
 5. Data Visualisation: We perform predictive analysis and visualisation on ESG metrics across Australia. This can help to track and comply with relevant legislations.
 
 ## Figma
-[Figma] (https://www.figma.com/file/iwP4CwWQU14SZ6cEM0cQsz/ESGenius-(Community)?type=design&node-id=0%3A1&mode=design&t=JUrbUJe3Y1pTHmHk-1)
+[Figma](https://www.figma.com/file/iwP4CwWQU14SZ6cEM0cQsz/ESGenius-(Community)?type=design&node-id=0%3A1&mode=design&t=JUrbUJe3Y1pTHmHk-1)
 
 ## Walkthrough Video
 [Walkthrough on Youtube](https://www.youtube.com/watch?v=viVAgO1D3LU)
