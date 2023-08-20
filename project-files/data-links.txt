@@ -1,0 +1,80 @@
+https://databank.worldbank.org/source/environment-social-and-governance?preview=on#
+databank.worldbank.org
+Environment Social and Governance (ESG) Data | DataBank
+Aggregate groups may reflect economies beyond those included in this database. For details on the member composition, see World Bank Country and Lending Groups at <a href=https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups target=_blank>https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups</a>
+The ESG dataset provides a collection of indicators for sustainable investment analysis, based on a draft framework of 17 key sustainability criteria. The indicators are drawn from multiple World Bank databases and external data providers.
+3:26
+https://stats.oecd.org/Index.aspx?DataSetCode=air_ghg
+stats.oecd.orgstats.oecd.org
+Greenhouse gas emissions
+OECD.Stat enables users to search for and extract data from across OECD’s many databases.
+3:26
+https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?locations=AU
+data.worldbank.orgdata.worldbank.org
+World Bank Open Data
+Free and open access to global development data
+3:27
+https://data.gov.au/dataset/ds-qld-7be91418-73fd-4598-89bc-8ef5d528b2b7/details?q=Greenhouse%20gas%20emissions
+3:27
+https://stats.oecd.org/Index.aspx?DataSetCode=air_ghg
+3:27
+https://www.iea.org/data-and-statistics/data-tools/greenhouse-gas-emissions-from-energy-data-explorer
+IEAIEA
+Greenhouse Gas Emissions from Energy Data Explorer – Data Tools - IEA
+Greenhouse Gas Emissions from Energy Data Explorer - Data tools. A data tool by the International Energy Agency. (43 kB)
+https://www.iea.org/data-and-statistics/data-tools/greenhouse-gas-emissions-from-energy-data-explorer
+
+New
+3:28
+https://www.pwc.com/sk/en/environmental-social-and-corporate-governance-esg/measuring-environmental-impact/carbon-footprint-calculation.html
+PwCPwC
+Carbon footprint calculation
+Carbon footprint calculation
+3:29
+PDF
+
+
+GVG-SearchResults-20230820082322.pdf
+PDF
+
+
+3:29
+Binary
+
+
+'With additional measures' scenario_20-08-2023_08-16-08.xlsx
+Binary
+
+
+3:29
+Excel spreadsheet
+
+
+ageis-national-inventory-by-economic-sector-2020-data-tables.xlsx
+Excel spreadsheet
+
+
+3:30
+4 files
+
+
+Transport data summary - first and second release.xlsx
+Excel spreadsheet
+
+API_EN.ATM.CO2E.PC_DS2_en_excel_v2_5708461.xls
+Excel spreadsheet
+
+P_Data_Extract_From_Environment_Social_and_Governance_(ESG)_Data.xlsx
+Excel spreadsheet
+
+Number of motor vehicles(a) by household composition(b), 2021 Census.xlsx
+Binary
+3:30
+https://www.abs.gov.au/statistics/industry/tourism-and-transport/motor-vehicle-census-australia/latest-release
+Australian Bureau of StatisticsAustralian Bureau of Statistics
+Motor Vehicle Census, Australia, 31 Jan 2021
+Statistics relating to vehicles which were registered on 31st January 2021 with a motor vehicle registration authority (60 kB)
+https://www.abs.gov.au/statistics/industry/tourism-and-transport/motor-vehicle-census-australia/latest-release
+
+3:30
+https://www2.deloitte.com/content/dam/Deloitte/pl/Documents/Carbon-footprint-and-CO2e-reduction.pdf
