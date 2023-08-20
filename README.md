@@ -26,6 +26,7 @@ An interactive app, providing ESG insights across Australia and globally, focuss
 ## Walkthrough Video
 
 ## Link to Hackerspace Profile
+https://hackerspace.govhack.org/team_management/teams/2186
 
 ## Sources and References
 
